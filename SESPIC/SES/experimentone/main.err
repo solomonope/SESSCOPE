@@ -1,0 +1,4 @@
+Warning[2058] C:\SES180113\SES\experimentone\main.c 53 : call of function without prototype
+Warning[2058] C:\SES180113\SES\experimentone\main.c 97 : call of function without prototype
+Warning[2066] C:\SES180113\SES\experimentone\main.c 195 : type qualifier mismatch in assignment
+Warning[2066] C:\SES180113\SES\experimentone\main.c 229 : type qualifier mismatch in assignment
