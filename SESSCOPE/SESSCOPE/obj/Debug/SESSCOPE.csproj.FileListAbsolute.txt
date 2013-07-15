@@ -1,0 +1,55 @@
+C:\Users\Solomon\documents\visual studio 2012\Projects\SESSCOPE\SESSCOPE\bin\Debug\SESSCOPE.exe.config
+C:\Users\Solomon\documents\visual studio 2012\Projects\SESSCOPE\SESSCOPE\bin\Debug\SESSCOPE.exe
+C:\Users\Solomon\documents\visual studio 2012\Projects\SESSCOPE\SESSCOPE\bin\Debug\SESSCOPE.pdb
+C:\Users\Solomon\documents\visual studio 2012\Projects\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.MainForm.resources
+C:\Users\Solomon\documents\visual studio 2012\Projects\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.Properties.Resources.resources
+C:\Users\Solomon\documents\visual studio 2012\Projects\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.SettingsForm.resources
+C:\Users\Solomon\documents\visual studio 2012\Projects\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.csproj.GenerateResource.Cache
+C:\Users\Solomon\documents\visual studio 2012\Projects\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.exe
+C:\Users\Solomon\documents\visual studio 2012\Projects\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.pdb
+E:\SESSCOPE\SESSCOPE\bin\Debug\SESSCOPE.exe.config
+E:\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.exe
+E:\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.pdb
+E:\SESSCOPE\SESSCOPE\bin\Debug\SESSCOPE.exe
+E:\SESSCOPE\SESSCOPE\bin\Debug\SESSCOPE.pdb
+E:\SESSCOPE\SESSCOPE\obj\Debug\ResolveAssemblyReference.cache
+E:\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.MainForm.resources
+E:\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.Properties.Resources.resources
+E:\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.SettingsForm.resources
+E:\SESSCOPE\SESSCOPE\obj\Debug\ResGen.read.1.tlog
+E:\SESSCOPE\SESSCOPE\obj\Debug\ResGen.write.1.tlog
+C:\Users\OSF183\Desktop\SESSCOPE\SESSCOPE\bin\Debug\SESSCOPE.exe.config
+C:\Users\OSF183\Desktop\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.exe
+C:\Users\OSF183\Desktop\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.pdb
+C:\Users\OSF183\Desktop\SESSCOPE\SESSCOPE\bin\Debug\SESSCOPE.exe
+C:\Users\OSF183\Desktop\SESSCOPE\SESSCOPE\bin\Debug\SESSCOPE.pdb
+C:\Users\OSF183\Desktop\SESSCOPE\SESSCOPE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OSF183\Desktop\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.MainForm.resources
+C:\Users\OSF183\Desktop\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.Properties.Resources.resources
+C:\Users\OSF183\Desktop\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.SettingsForm.resources
+C:\Users\OSF183\Desktop\SESSCOPE\SESSCOPE\obj\Debug\ResGen.read.1.tlog
+C:\Users\OSF183\Desktop\SESSCOPE\SESSCOPE\obj\Debug\ResGen.write.1.tlog
+\\engnfs2\eeestudents\PT\O\OSF183\Documents\SESSCOPE\SESSCOPE\bin\Debug\SESSCOPE.exe.config
+\\engnfs2\eeestudents\PT\O\OSF183\Documents\SESSCOPE\SESSCOPE\bin\Debug\SESSCOPE.exe
+\\engnfs2\eeestudents\PT\O\OSF183\Documents\SESSCOPE\SESSCOPE\bin\Debug\SESSCOPE.pdb
+\\engnfs2\eeestudents\PT\O\OSF183\Documents\SESSCOPE\SESSCOPE\obj\Debug\ResolveAssemblyReference.cache
+\\engnfs2\eeestudents\PT\O\OSF183\Documents\SESSCOPE\SESSCOPE\obj\Debug\PrintControl.ControlPrint.resources
+\\engnfs2\eeestudents\PT\O\OSF183\Documents\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.MainForm.resources
+\\engnfs2\eeestudents\PT\O\OSF183\Documents\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.Properties.Resources.resources
+\\engnfs2\eeestudents\PT\O\OSF183\Documents\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.SettingsForm.resources
+\\engnfs2\eeestudents\PT\O\OSF183\Documents\SESSCOPE\SESSCOPE\obj\Debug\ResGen.read.1.tlog
+\\engnfs2\eeestudents\PT\O\OSF183\Documents\SESSCOPE\SESSCOPE\obj\Debug\ResGen.write.1.tlog
+\\engnfs2\eeestudents\PT\O\OSF183\Documents\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.exe
+\\engnfs2\eeestudents\PT\O\OSF183\Documents\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.pdb
+Y:\Documents\SESSCOPE\SESSCOPE\bin\Debug\SESSCOPE.exe.config
+Y:\Documents\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.exe
+Y:\Documents\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.pdb
+Y:\Documents\SESSCOPE\SESSCOPE\bin\Debug\SESSCOPE.exe
+Y:\Documents\SESSCOPE\SESSCOPE\bin\Debug\SESSCOPE.pdb
+Y:\Documents\SESSCOPE\SESSCOPE\obj\Debug\ResolveAssemblyReference.cache
+Y:\Documents\SESSCOPE\SESSCOPE\obj\Debug\PrintControl.ControlPrint.resources
+Y:\Documents\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.MainForm.resources
+Y:\Documents\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.Properties.Resources.resources
+Y:\Documents\SESSCOPE\SESSCOPE\obj\Debug\SESSCOPE.SettingsForm.resources
+Y:\Documents\SESSCOPE\SESSCOPE\obj\Debug\ResGen.read.1.tlog
+Y:\Documents\SESSCOPE\SESSCOPE\obj\Debug\ResGen.write.1.tlog
